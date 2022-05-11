@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-leetcodebot-dev-224400-authRole",
+      "UnauthRoleArn": "arn:aws:iam::983816907322:role/amplify-leetcodebot-dev-224400-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::983816907322:role/amplify-leetcodebot-dev-224400-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-leetcodebot-dev-224400-deployment",
+      "UnauthRoleName": "amplify-leetcodebot-dev-224400-unauthRole",
+      "StackName": "amplify-leetcodebot-dev-224400",
+      "StackId": "arn:aws:cloudformation:us-west-2:983816907322:stack/amplify-leetcodebot-dev-224400/cd9b3f00-d138-11ec-97e0-0657b674af27",
+      "AmplifyAppId": "d7oye3wrztdp5"
+    }
+  }
+}
