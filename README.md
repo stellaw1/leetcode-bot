@@ -1,4 +1,4 @@
-# app
+# leetcode-bot
 
 ## Project setup
 ```
@@ -20,5 +20,13 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Improvements
+- [ ] fix color scheme using tailwind [built in color palette](https://v2.tailwindcss.com/docs/customizing-colors#default-color-palette) and a leetcode color scheme
+- [ ] footer icons
+
+
+### Built using 
+ - Vue
+ - tailwind CSS
+ - DaisyUI
+ - [Paletton](https://paletton.com/#uid=33-0u0kllllvVf2r4iLfBnVaLun)

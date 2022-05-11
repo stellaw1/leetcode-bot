@@ -4,8 +4,8 @@
       <header>
           <title>LeetCode Bot</title>
       </header>
-      <app-bar class="block"></app-bar>
-      <router-view class="mx-auto h-5/6 block"></router-view>
+      <app-bar></app-bar>
+      <router-view class="mx-auto h-full"></router-view>
       <footer-bar></footer-bar>
     </main>
   </div>
