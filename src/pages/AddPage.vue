@@ -1,6 +1,6 @@
 <template>
-    <div class="p-5 card md:hero mx-auto">
-        <div class="form-control">
+    <div class="p-5 card md:hero mx-auto overflow-auto">
+        <form class="form-control">
             <ul class="w-auto">
                 <li>
                     <label class="input-group mb-2">
@@ -17,7 +17,7 @@
                 <li>
                     <label class="input-group mb-4">
                         <span class="w-28">Difficulty</span>
-                        <select class="select">
+                        <select class="select select-bordered">
                             <option>Easy</option>
                             <option>Medium</option>
                             <option>Hard</option>
@@ -38,13 +38,13 @@
                 </li>
                 <li>
                     <label class="input-group mb-4">
-                        <span class="w-28 p-2">Time Compelexity</span>
+                        <span class="w-28 pt-2 pb-2">Time Compelexity</span>
                         <input type="text" placeholder="O(n)" class="h-24 input input-bordered" />
                     </label>
                 </li>
                 <li>
                     <label class="input-group mb-4">
-                        <span class="w-28 p-2">Space Complexity</span>
+                        <span class="w-28 pt-2 pb">Space Complexity</span>
                         <input type="text" placeholder="O(n)" class="h-24 input input-bordered " />
                     </label>
                 </li>
@@ -54,8 +54,13 @@
                         <textarea type="text" placeholder="- note to self" class="textarea  textarea-bordered" />
                     </label>
                 </li>
+                <li>
+                    <button class="btn btn-wide btn-primary" type="submit">
+                        Submit
+                    </button>
+                </li>
             </ul>
-        </div>
+        </form>
     </div>
 <!-- 
     <div className="md:hero mx-auto h-auto">
