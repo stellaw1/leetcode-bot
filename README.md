@@ -21,7 +21,7 @@ yarn lint
 ```
 
 ### Improvements
-- [ ] fix color scheme using tailwind [built in color palette](https://v2.tailwindcss.com/docs/customizing-colors#default-color-palette) and a leetcode color scheme
+- [ ] fix color scheme using [tailwind](https://v2.tailwindcss.com/docs/customizing-colors#default-color-palette) or [daisyui](https://daisyui.com/theme-generator/) built in color palette and a leetcode color scheme
 - [ ] footer icons
 - [ ] implement database
 - [ ] integrate database
@@ -31,4 +31,3 @@ yarn lint
  - Vue
  - tailwind CSS
  - DaisyUI
- - [Paletton](https://paletton.com/#uid=33-0u0kllllvVf2r4iLfBnVaLun)
