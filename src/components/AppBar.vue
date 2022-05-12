@@ -1,8 +1,8 @@
 <template>
-  <div class="navbar border-solid border border-gray-200">
+  <div class="navbar border-solid border border-gray-200 h-auto">
     <div class="flex-1">
-      <div class="navbar-start">
-        <img alt="LeetCode logo" src="../assets/LeetCode.png" class="h-8 w-8">
+      <div class="navbar-start p-2">
+        <img alt="LeetCode logo" src="../assets/LeetCode.png" class="h-12 w-12">
       </div>
       <router-link to="/">
           <a class="btn btn-ghost normal-case text-xl">LeetCode Bot</a>

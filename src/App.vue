@@ -1,11 +1,11 @@
 <template>
-  <div>
+  <div data-theme="bumblebee">
     <main class="flex flex-col h-screen">
       <header>
           <title>LeetCode Bot</title>
       </header>
       <app-bar></app-bar>
-      <router-view class="mx-auto h-full"></router-view>
+      <router-view class="mx-auto p-5 h-5/6"></router-view>
       <footer-bar></footer-bar>
     </main>
   </div>
