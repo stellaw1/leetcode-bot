@@ -5,7 +5,7 @@
           <title>LeetCode Bot</title>
       </header>
       <app-bar></app-bar>
-      <router-view class="mx-auto h-auto"></router-view>
+      <router-view class="mx-auto p-5 h-5/6"></router-view>
       <footer-bar></footer-bar>
     </main>
   </div>

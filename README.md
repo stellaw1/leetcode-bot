@@ -23,8 +23,10 @@ yarn lint
 ### Improvements
 - [ ] fix color scheme using tailwind [built in color palette](https://v2.tailwindcss.com/docs/customizing-colors#default-color-palette) and a leetcode color scheme
 - [ ] footer icons
+- [ ] api for fetching leetcode problems
 - [ ] implement database
 - [ ] integrate database
+- [ ] user auth and user db
 
 
 ### Built using 
